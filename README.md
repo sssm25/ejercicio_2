@@ -1,2 +1,2 @@
 # ejercicios_semanales
-Repositorio para el ejercicio numero 2
+Repositorio para subir entregas de tareas semanles

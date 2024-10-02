@@ -1,0 +1,5 @@
+realicé todos los pasos de la guía para desplegar el sitio web en GitHub Pages. Aquí está el enlace al repositorio y el sitio publicado. 
+https://github.com/sssm25/ejercicio_2.git
+
+https://github.com/sssm25/ejercicio_2/tree/main/entrar
+.
